@@ -99,7 +99,7 @@ instagram: "@vishwakk__24"
 - 🗺️ Dynamic tour catalog powered by MySQL
 - 🔐 Admin dashboard for managing destinations
 - 💳 Seamless booking & payment flow
-- 🎨 Glassmorphism dark-themed UI
+- 🎨 Modern UI made with Tailwind CSS
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -126,12 +126,11 @@ instagram: "@vishwakk__24"
 <td width="50%" valign="top">
 
 ### 🎬 [Movie Booking System](https://github.com/vishwakshenansrinivasan/moviebookingsystem)
-> Modern cinema seat reservation platform.
+> Python-based cinema ticket booking desktop application.
 
-- 🪑 Interactive seat selection UI
-- 🎟️ Ticket generation workflow
-- 🔐 User authentication & session management
-- 📱 Fully responsive design
+- 📽️ Browse available movies and showtimes
+- 🔐 Dedicated User & Admin modules with authentication
+- 📊 Admin dashboard for scheduling & revenue tracking
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
@@ -171,11 +170,12 @@ instagram: "@vishwakk__24"
 <td width="50%" valign="top">
 
 ### 🧾 [Invoice System](https://github.com/SkullGAMERSS/invoice-system) 
-> Clean & efficient invoice management tool.
+> Web-based invoice generation & management solution.
 
-- 📋 Invoice creation & tracking
-- 💰 Billing automation
-- 🖨️ Print-ready invoice templates
+- ⚡ Automated CGST & SGST tax calculations
+- 📊 Excel spreadsheet data exporting via SheetJS
+- ☁️ Cloud & local JSON data import/export
+- 🧑‍💼 Customer GSTIN management system
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
