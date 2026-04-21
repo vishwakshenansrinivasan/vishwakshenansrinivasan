@@ -133,6 +133,9 @@ instagram: "@vishwakk__24"
 - 🔐 User authentication & session management
 - 📱 Fully responsive design
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+
 </td>
 <td width="50%" valign="top">
 
