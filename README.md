@@ -140,7 +140,7 @@ instagram: "@vishwakk__24"
 <td width="50%" valign="top">
 
 ### 🤝 [VendorX AI](https://github.com/rdjishnu/VendorX-AI) *(Collaborator)*
-> AI-powered vendor management & analytics system.
+> AI-powered vendor management & analytics system. (Hackathon Project)
 
 - 🧠 AI-driven vendor insights
 - 📦 Supply chain optimization
@@ -155,25 +155,30 @@ instagram: "@vishwakk__24"
 <tr>
 <td width="50%" valign="top">
 
-### 🕹️ [Follow My Lead](https://github.com/SkullGAMERSS/follow-my-lead-web) *(SkullGAMERSS)*
-> Interactive web-based party game experience.
+### 🏍️ [Follow My Lead](https://github.com/SkullGAMERSS/follow-my-lead-web)
+> Real-time group riding coordination platform. (Hackathon Project)
 
-- 🎮 Real-time multiplayer game mechanics
-- ✨ Smooth & responsive UI
-- 🎨 Custom animations & transitions
+- 📍 Live location tracking & synced navigation
+- 👥 Instant session creation for groups
+- 🌐 Browser-based, no app required
+- ⚛️ Built with Vite, React & Tailwind CSS
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧾 [Invoice System](https://github.com/SkullGAMERSS/invoice-system) *(SkullGAMERSS)*
+### 🧾 [Invoice System](https://github.com/SkullGAMERSS/invoice-system) 
 > Clean & efficient invoice management tool.
 
 - 📋 Invoice creation & tracking
 - 💰 Billing automation
 - 🖨️ Print-ready invoice templates
 
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
@@ -197,16 +202,6 @@ instagram: "@vishwakk__24"
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwakshenansrinivasan&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6584&currStreakLabel=ffffff" width="60%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vishwakshenansrinivasan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"/>
 
 </div>
 
